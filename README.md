@@ -1,6 +1,6 @@
-# Export Word Documents as PDF in React Using the DOCX Editor
+# Export Word Documents as PDF in React Using the DOCX Editor (Document Editor)
 
-This sample demonstrates how to export a Word document as a PDF using the `Syncfusion DOCX Editor` component in React. It covers exporting the document on both the client and server sides.
+This sample demonstrates how to export a Word document as a PDF using the [React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor) component. It covers exporting the document on both the client and server sides.
 
 # Features 
 
@@ -8,11 +8,13 @@ This sample demonstrates how to export a Word document as a PDF using the `Syncf
 
 [**Server Side**](https://github.com/SyncfusionExamples/Export-document-as-PDF-in-React/tree/master/Server%20side%20export) – With the help of [Syncfusion® DocIO](https://www.nuget.org/packages/Syncfusion.DocIORenderer), you can export the document as PDF on the server side.  
 
-# Resources 
+# Resources
 
-- Product page: [Syncfusion® React Word Processor](https://www.syncfusion.com/docx-editor-sdk/React-docx-editor)    
-- Documentation: [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/React/getting-started)   
-- Online demo: [Syncfusion® Word Processor - Demo](https://document.syncfusion.com/demos/docx-editor/React/#/bootstrap5/document-editor/default) 
+- **Product page:**   [Syncfusion® React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
+- **Documentation:**   [Syncfusion® React DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/react/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
+- **Online demo:**   [Syncfusion® React DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/react/#/tailwind3/document-editor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
 # Support and feedback 
 
